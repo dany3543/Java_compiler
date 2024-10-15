@@ -1,0 +1,46 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    public static void main(String[] 
+    args) {
+        //Enteras
+        byte enteroMuypequeñoObject;
+        Byte
+        
+        enteroMuyPequeñoObject
+        ect;
+        
+        short entero pequenno;
+        short
+         enteroPequennoObject;
+        
+        int entera;
+        System.out.println("El rango de un entero es -2,147,483,648 a 2,147,483,648");
+        Intenger enteraObject:
+        
+        long enteroGrande;
+        long enteroGrandeObjeto
+        
+        //Decimal
+        Float decimal;
+        Float decimalObject;
+        
+        double decimal2;
+        Double decimal2Object;
+        
+        //Bolean
+        boolean bool;
+        Boolean booleanObject;
+        
+        //Cadena de caracteres
+        String cadena;
+        
+        //caracate
+        char caracater;
+        Character
+        
+        //Object
+        object objeto;
+    }
+}
